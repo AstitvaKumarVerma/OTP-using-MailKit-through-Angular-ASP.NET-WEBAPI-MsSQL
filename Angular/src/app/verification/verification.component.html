@@ -1,0 +1,12 @@
+<div class="container">
+    <h2>Verify OTP</h2>
+    <p>Enter the OTP you received in your email:</p>
+    <form (submit)="verifyOTP()">
+      <div class="form-group">
+        <label for="otp">OTP:</label>
+        <input type="text" class="form-control" id="otp" [(ngModel)]="otp" name="otp" required>
+      </div>
+      <button type="submit" class="btn btn-primary">Verify OTP</button>
+    </form>
+  </div>
+  
