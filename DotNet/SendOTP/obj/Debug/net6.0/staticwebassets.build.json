@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zYTmsoEy16C09ObdHUZ/7gf+j1pgh78aPoxfwUezIXI=",
+  "Source": "SendOTP",
+  "BasePath": "_content/SendOTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
